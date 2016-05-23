@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"DocBlockr",
+		"GitGutter",
+		"moonscript-tmbundle",
+		"Package Control",
+		"Rust",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter"
+	],
+	"repositories":
+	[
+		"https://github.com/leafo/moonscript-tmbundle.git"
+	]
+}
