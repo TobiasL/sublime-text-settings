@@ -1,0 +1,7 @@
+[
+  { "keys": ["ctrl+tab"], "command": "next_view" },
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
+]
+// Add easier hiding of the sidebar
+// { "keys": "ctrl+k", "ctrl+b"], "command": "toggle_side_bar" },
+// Kolla vilka mer funktionaliteter som hotkeys är dåliga till
