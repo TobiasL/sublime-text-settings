@@ -7,12 +7,15 @@
 	[
 		"Alignment",
 		"Babel",
+		"BracketHighlighter",
 		"DocBlockr",
 		"GitGutter",
 		"Package Control",
 		"Sass",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-json"
+		"SublimeLinter-json",
+		"Theme - El Capitan"
 	]
 }
