@@ -12,10 +12,10 @@
 		"GitGutter",
 		"Package Control",
 		"Sass",
-		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-json",
-		"Theme - El Capitan"
+		"Theme - El Capitan",
+		"TypeScript"
 	]
 }

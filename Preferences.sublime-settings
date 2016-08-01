@@ -3,6 +3,7 @@
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"detect_slow_plugins": true,
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"el_capitan_font_default": true,
