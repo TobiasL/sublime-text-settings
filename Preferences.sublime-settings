@@ -1,5 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
+	"auto_match_enabled": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"draw_minimap_border": true,
