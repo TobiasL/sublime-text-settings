@@ -1,6 +1,7 @@
 *.cache
 SublimeLinter
 *.last-run
+*.crt
 *.ca-list
 *ca-bundle
 *.system-ca-bundle
