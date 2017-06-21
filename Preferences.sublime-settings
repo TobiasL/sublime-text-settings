@@ -18,6 +18,16 @@
 	],
 	"find_selected_text": true,
 	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".stack-work",
+		"elm-stuff"
+	],
 	"font_face": "Source Code Pro",
 	"font_options": "subpixel_antialias",
 	"font_size": 12,

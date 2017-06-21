@@ -10,6 +10,7 @@
 		"BracketHighlighter",
 		"DocBlockr",
 		"EditorConfig",
+		"Elm Language Support",
 		"GitGutter",
 		"Markdown Preview",
 		"Package Control",
@@ -18,6 +19,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-rustc",
+		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-json",
 		"Theme - El Capitan",
 		"TypeScript"
