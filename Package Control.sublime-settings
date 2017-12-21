@@ -20,6 +20,7 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-rustc",
 		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-contrib-tslint",
 		"SublimeLinter-json",
 		"Theme - El Capitan",
 		"TypeScript"
