@@ -5,26 +5,23 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alignment",
-		"Babel",
 		"BracketHighlighter",
-		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
-		"Elm Syntax Highlighting",
 		"GitGutter",
-		"MarkdownPreview",
+		"HyperClick",
+		"Naomi",
 		"Package Control",
 		"Pretty JSON",
-		"Pug",
-		"PureScript",
 		"Sass",
 		"SublimeLinter",
-		"SublimeLinter-contrib-rustc",
 		"SublimeLinter-eslint",
 		"SublimeLinter-json",
 		"SublimeLinter-stylelint",
 		"SublimeLinter-tslint",
-		"Theme - El Capitan"
+		"Theme - El Capitan",
+		"TypeScript"
 	]
 }
