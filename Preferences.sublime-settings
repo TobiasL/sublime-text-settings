@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"detect_slow_plugins": true,
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
@@ -10,7 +10,7 @@
 	"el_capitan_sidebar_blue_folders": true,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
-	"fade_fold_buttons": false,
+	"fade_fold_buttons": true,
 	"file_exclude_patterns":
 	[
 		".DS_Store",
