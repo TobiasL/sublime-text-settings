@@ -1,24 +1,28 @@
 {
-  "bootstrapped": true,
-  "in_process_packages": [],
-  "installed_packages": [
-    "A File Icon",
-    "Alignment",
-    "BracketHighlighter",
-    "Dockerfile Syntax Highlighting",
-    "EditorConfig",
-    "GitGutter",
-    "HyperClick",
-    "Naomi",
-    "Package Control",
-    "Pretty JSON",
-    "Sass",
-    "SublimeLinter",
-    "SublimeLinter-eslint",
-    "SublimeLinter-json",
-    "SublimeLinter-stylelint",
-    "SublimeLinter-tslint",
-    "Theme - El Capitan",
-    "TypeScript"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"BracketHighlighter",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"GitGutter",
+		"HyperClick",
+		"Naomi",
+		"Package Control",
+		"Pretty JSON",
+		"Rust Enhanced",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-json",
+		"SublimeLinter-stylelint",
+		"SublimeLinter-tslint",
+		"Theme - El Capitan",
+		"TOML"
+	]
 }
