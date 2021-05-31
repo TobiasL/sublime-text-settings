@@ -12,9 +12,7 @@
 		"EditorConfig",
 		"GitGutter",
 		"HyperClick",
-		"Naomi",
 		"Package Control",
-		"Pretty JSON",
 		"Rust Enhanced",
 		"Sass",
 		"SublimeLinter",
@@ -22,7 +20,6 @@
 		"SublimeLinter-json",
 		"SublimeLinter-stylelint",
 		"SublimeLinter-tslint",
-		"Theme - El Capitan",
-		"TOML"
-	]
+		"TOML",
+	],
 }
